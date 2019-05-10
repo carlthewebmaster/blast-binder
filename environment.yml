@@ -11,7 +11,7 @@ dependencies:
   - statsmodels
   - biopython
   - regex
-  - blast>=2.9
+  - blast=2.9.0
   - perl=5.22.0.1
   - perl-carp=1.38
   - perl-clone=0.38
